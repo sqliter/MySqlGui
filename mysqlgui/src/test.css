@@ -1,0 +1,7 @@
+.noborder {
+    -fx-border-width: 0;
+    -fx-background-color: #ececec;
+}
+.bghui {
+    -fx-background-color: #ececec;
+}
